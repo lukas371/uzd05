@@ -1,0 +1,45 @@
+th, td {
+  height: 50%;
+  width: 15%;
+}
+table {
+  border-collapse: collapse;
+}
+table, th, td , tr {
+  border: 1px solid #A0A0A0;
+    text-align: left;
+    padding: 10px;
+    margin: auto;
+}
+.tomato {
+  background: tomato;
+}
+.Orange{
+  background: Orange ;
+}
+.DodgerBlue{
+  background: DodgerBlue;
+}
+.MediumSeaGreen{
+  background: MediumSeaGreen;
+}
+.Gray{
+  background: Gray;
+}
+.SlateBlue{
+  background: SlateBlue;
+}
+.Violet{
+  background: Violet;
+}
+.LightGray{
+  background: LightGray;
+}
+
+.second th, .second td {
+  height: 50px;
+  width: 360px;
+}
+td.a, th.a {
+     background-color: #F0F0F0;
+}
